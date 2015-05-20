@@ -1,7 +1,7 @@
 # Perioperative adrenergic-beta-blockers without P450 metabolism
 A data-only living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. There *is not* significand heterogeneity of results. This review updates the previously published meta-analysis (1) because the results are very similar.
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. There *is not* significant heterogeneity of results. This review updates the previously published meta-analysis (2).
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
